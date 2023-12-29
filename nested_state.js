@@ -3,7 +3,7 @@ const createStore = redux.createStore;
 const produce = require("immer").produce;
 
 const initialState = {
-  name: "Bhoomi",
+  name: "Madhu",
   address: {
     street: "123 Main St",
     city: "Banglore",
